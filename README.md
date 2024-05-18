@@ -16,3 +16,6 @@ Try query
 # Soal 5
 ![alt text](nomor5.png)
 Link : [MyVecelProject](https://09-nextjs-database-kappa-beryl.vercel.app/)
+
+# Soal 6
+![alt text](nomor6.png)
