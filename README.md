@@ -8,3 +8,7 @@ Deploy project
 # Soal 3
 ![alt text](nomor3.png)
 Create table in database
+
+# Soal 4
+![alt text](nomor4.png)
+Try query
