@@ -2,18 +2,18 @@ import { Card } from '@/app/components/molecules/card';
 import RevenueChart from '@/app/components/molecules/revenue-chart';
 import LatestInvoices from '@/app/components/molecules/latest-invoices';
 import { lusitana } from '@/app/components/atoms/fonts';
-// import { fetchCardData } from '@/model/query';
+import { fetchCardData } from '@/model/query';
 
 
 
 export default async function Page() {
 
-  // const {
-  //   numberOfInvoices,
-  //   numberOfCustomers,
-  //   totalPaidInvoices,
-  //   totalPendingInvoices,
-  // } = await fetchCardData();
+  const {
+    numberOfInvoices,
+    numberOfCustomers,
+    totalPaidInvoices,
+    totalPendingInvoices,
+  } = await fetchCardData();
 
   return (
     <main>
