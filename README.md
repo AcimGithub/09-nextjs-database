@@ -19,3 +19,6 @@ Link : [MyVecelProject](https://09-nextjs-database-kappa-beryl.vercel.app/)
 
 # Soal 6
 ![alt text](nomor6.png)
+
+# Soal 7
+![alt text](nomor7.png)
